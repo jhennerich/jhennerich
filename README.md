@@ -1,9 +1,9 @@
 ![background image](https://media.giphy.com/media/smzfl3E7a4iHK/giphy.gif)
-<h3 align="center">
+<h3>
   Welcome to John Hennerich's profile!
 </h3>
 
-<p align="center">
+<p>
   <a href="https://github.com/jhennerich/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Backend%20web%20and%20app%20developer;20%2B%20years%20of%20IT%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
 </p>
 
