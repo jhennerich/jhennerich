@@ -1,4 +1,4 @@
-  ![ background image](https://media.giphy.com/media/smzfl3E7a4iHK/giphy.gif)
+![background image](https://media.giphy.com/media/smzfl3E7a4iHK/giphy.gif)
 <h3 align="center">
   Welcome to John Hennerich's profile!
 </h3>
